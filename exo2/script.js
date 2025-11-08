@@ -1,5 +1,7 @@
+"use strict";
+
 // Declatation d'un tableau simple de chaînes de caractères, vu dans le cours slide 38
-EtudTab = ["Etudiant1", "Etudiant2", "Etudiant3"];
+const EtudTab = ["Etudiant1", "Etudiant2", "Etudiant3"];
 
 // Déclaration de l'objet person, vu dans le cours slide 39
 const person = {

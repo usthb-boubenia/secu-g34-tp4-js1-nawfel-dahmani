@@ -1,3 +1,5 @@
+"use strict";
+
 // Déclaration du tableau des étudiants, vu dans le cours slide 44   
 const Students = [
     [1000, "JOHN", "DOE", 14, 5],

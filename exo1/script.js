@@ -1,3 +1,5 @@
+"use strict";
+
 // Ici on utilise des fonctions, vu dans le slide 45
 // on mettre en onclick dans le html, vu dans le slide 17
 
